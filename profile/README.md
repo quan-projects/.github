@@ -2,9 +2,6 @@
 
 
 
-![Open Collective contributors](https://opencollective.com/quan-project/tiers/badge.svg)
-
-
 <!--
 
 **Here are some ideas to get you started:**
